@@ -6,3 +6,5 @@ Les commandes qui permettent :
 			   git commit -m ""
 			   git push
 + git pull 
++ git checkout -b pour créer une nouvelle branche 
++ git checkout "switcher" de branche
